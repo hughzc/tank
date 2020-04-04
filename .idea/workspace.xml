@@ -1,7 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17c342a3-8adc-4514-9fdf-8552f602f164" name="Default Changelist" comment="" />
+    <list default="true" id="17c342a3-8adc-4514-9fdf-8552f602f164" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/audio/explode.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/audio/tank_fire.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/audio/tank_move.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/audio/war1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zc/tank/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zc/tank/Bullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zc/tank/Dir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zc/tank/Explode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zc/tank/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zc/tank/ImageUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zc/tank/PropertyMgr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zc/tank/ResourceMgr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zc/tank/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/BadTank1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/BadTank2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/GoodTank1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/GoodTank2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/bulletD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/bulletL.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/bulletR.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/bulletU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/bulletU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/e1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/e10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/e11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/e12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/e13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/e14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/e15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/e16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/e2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/e3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/e4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/e5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/e6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/e7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/e8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/e9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/missileLD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/missileLU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/missileRD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/missileRU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/square0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/square1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/square2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/square3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/square4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/square5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/square6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/tank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/tankD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/tankL.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/tankLD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/tankLU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/tankR.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/tankRD.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/tankRU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/tankU.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/AudioTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ImageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tank/com/zc/tank/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tank/com/zc/tank/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tank/com/zc/tank/TankFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tank/com/zc/tank/TankFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tank/com/zc/tank/TankFrame$MyKeyListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tank/com/zc/tank/TankFrame$MyKeyListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tank/com/zc/tank/TankFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tank/com/zc/tank/TankFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zc/tank/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zc/tank/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zc/tank/TankFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zc/tank/TankFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tank.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,21 +94,89 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            <state relative-caret-position="133">
+              <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" selection-start-line="1" selection-end-line="5" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zc/tank/PropertyMgr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/zc/tank/TankFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="83" column="13" lean-forward="true" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
+            <state relative-caret-position="190">
+              <caret line="16" column="87" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Tank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="14" column="91" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="91" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zc/tank/ImageUtil.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Explode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Bullet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="85" selection-start-line="6" selection-start-column="85" selection-end-line="6" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zc/tank/ResourceMgr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -40,9 +189,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>R</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,8 +206,23 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/zc/tank/T.java" />
+        <option value="$PROJECT_DIR$/src/com/zc/tank/Dir.java" />
+        <option value="$PROJECT_DIR$/src/com/zc/tank/MyTank.java" />
+        <option value="$PROJECT_DIR$/src/com/zc/tank/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/zc/tank/ImageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/ImageTest.java" />
+        <option value="$PROJECT_DIR$/src/com/zc/tank/Group.java" />
+        <option value="$PROJECT_DIR$/src/test/AudioTest.java" />
+        <option value="$PROJECT_DIR$/src/com/zc/tank/Audio.java" />
+        <option value="$PROJECT_DIR$/src/com/zc/tank/ImageUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/zc/tank/Explode.java" />
+        <option value="$PROJECT_DIR$/src/com/zc/tank/ResourceMgr.java" />
+        <option value="$PROJECT_DIR$/src/com/zc/tank/PropertyMgr.java" />
         <option value="$PROJECT_DIR$/src/com/zc/tank/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/zc/tank/Tank.java" />
+        <option value="$PROJECT_DIR$/src/com/zc/tank/Bullet.java" />
         <option value="$PROJECT_DIR$/src/com/zc/tank/TankFrame.java" />
+        <option value="$PROJECT_DIR$/src/config" />
       </list>
     </option>
   </component>
@@ -70,10 +240,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="46" />
-    <option name="y" value="81" />
-    <option name="width" value="1890" />
-    <option name="height" value="939" />
+    <option name="x" value="142" />
+    <option name="y" value="180" />
+    <option name="width" value="1827" />
+    <option name="height" value="864" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -81,8 +251,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,6 +271,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="tank" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="tank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -108,13 +284,30 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585726457557" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586004578824" />
     <property name="last_opened_file_path" value="D:/Program Files/jdk/bin/jvisualvm.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="plugins.junitgenerator.application" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zc.tank" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\tank\src\com\zc\tank" />
+      <recent name="D:\code\tank\src" />
+      <recent name="D:\code\tank\src\images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -128,9 +321,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zc.tank.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Audio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zc.tank.Audio" />
       <module name="tank" />
       <extension name="coverage">
         <pattern>
@@ -142,9 +335,71 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zc.tank.Main" />
+      <module name="tank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PropertyMgr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zc.tank.PropertyMgr" />
+      <module name="tank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zc.tank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AudioTest.audioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.AudioTest" />
+      <option name="METHOD_NAME" value="audioTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.ImageTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PropertyMgr" />
+        <item itemvalue="Application.Audio" />
+        <item itemvalue="JUnit.AudioTest.audioTest" />
+        <item itemvalue="JUnit.ImageTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -158,76 +413,319 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585722868613</updated>
-      <workItem from="1585722873632" duration="3350000" />
+      <workItem from="1585722873632" duration="9048000" />
+      <workItem from="1585793352492" duration="8371000" />
+      <workItem from="1585801921284" duration="9458000" />
+      <workItem from="1585880623631" duration="6814000" />
+      <workItem from="1585904805758" duration="6343000" />
+      <workItem from="1585967048002" duration="7258000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="ImageTest_test - 2020.04.02 at 12h 37m 29s.xml">
+      <configuration name="ImageTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImageTest - 2020.04.02 at 12h 38m 29s.xml">
+      <configuration name="ImageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImageTest_test - 2020.04.02 at 13h 14m 34s.xml">
+      <configuration name="ImageTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImageTest_test - 2020.04.02 at 13h 26m 01s.xml">
+      <configuration name="ImageTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImageTest_test - 2020.04.02 at 13h 29m 13s.xml">
+      <configuration name="ImageTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImageTest_test - 2020.04.02 at 13h 30m 41s.xml">
+      <configuration name="ImageTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImageTest_test - 2020.04.02 at 13h 32m 41s.xml">
+      <configuration name="ImageTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImageTest_test - 2020.04.02 at 13h 32m 53s.xml">
+      <configuration name="ImageTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImageTest_test - 2020.04.02 at 19h 46m 51s.xml">
+      <configuration name="ImageTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AudioTest_audioTest - 2020.04.03 at 12h 16m 15s.xml">
+      <configuration name="AudioTest.audioTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3350000" />
+    <option name="totallyTimeSpent" value="47292000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="31" y="54" width="1260" height="626" extended-state="0" />
+    <frame x="95" y="120" width="1218" height="576" extended-state="0" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17221297" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18017241" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Run with VisualVM" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Debug with VisualVM" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36363637" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5630631" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3299595" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3265766" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Dir.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        <state relative-caret-position="57">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/TankFrame.java">
+    <entry file="jar://D:/Program Files/jdk/src.zip!/java/awt/image/ImageObserver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="83" column="13" lean-forward="true" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
+        <state relative-caret-position="798">
+          <caret line="107" column="28" selection-start-line="107" selection-start-column="28" selection-end-line="107" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/test/ImageTestTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Group.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/jdk/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="428" selection-start-line="428" selection-end-line="428" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ImageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="26" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/AudioTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/jdk/src.zip!/javax/sound/sampled/AudioSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="1146" selection-start-line="1146" selection-end-line="1146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/jdk/jre/lib/rt.jar!/com/sun/media/sound/SoftMidiAudioFileReader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="156" selection-start-line="156" selection-end-line="156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/jdk/jre/lib/rt.jar!/com/sun/media/sound/StandardMidiFileReader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="151" selection-start-line="151" selection-end-line="151" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Audio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="86" column="17" lean-forward="true" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/bulletU.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/ImageUtil.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Explode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/ResourceMgr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Tank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="14" column="91" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="91" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Bullet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="85" selection-start-line="6" selection-start-column="85" selection-end-line="6" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/TankFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="16" column="87" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/PropertyMgr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>tank</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
