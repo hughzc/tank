@@ -3,20 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="17c342a3-8adc-4514-9fdf-8552f602f164" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zc/tank/Bullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zc/tank/Bullet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zc/tank/DefaultFirestrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zc/tank/DefaultFirestrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zc/tank/Explode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zc/tank/Explode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zc/tank/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zc/tank/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zc/tank/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zc/tank/Tank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zc/tank/abstractFactory/BaseBullet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zc/tank/abstractFactory/BaseExplode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zc/tank/abstractFactory/BaseTank.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zc/tank/abstractFactory/DefaultFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zc/tank/abstractFactory/GameFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zc/tank/abstractFactory/RectBullet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zc/tank/abstractFactory/RectExplode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zc/tank/abstractFactory/RectFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zc/tank/abstractFactory/RectTank.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,67 +15,12 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zc/tank/TankFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-437">
-              <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Tank.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3596#3597#0" expanded="true" />
-                <element signature="e#3622#3623#0" expanded="true" />
-                <element signature="e#3702#3703#0" expanded="true" />
-                <element signature="e#3728#3729#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zc/tank/DefaultFirestrategy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Bullet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="83" column="35" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Explode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+            <state relative-caret-position="304">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -107,8 +38,6 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>R</find>
-      <find>col</find>
-      <find>fire</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -132,26 +61,14 @@
         <option value="$PROJECT_DIR$/src/test/AudioTest.java" />
         <option value="$PROJECT_DIR$/src/com/zc/tank/Audio.java" />
         <option value="$PROJECT_DIR$/src/com/zc/tank/ImageUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/zc/tank/Explode.java" />
         <option value="$PROJECT_DIR$/src/com/zc/tank/ResourceMgr.java" />
         <option value="$PROJECT_DIR$/src/com/zc/tank/PropertyMgr.java" />
-        <option value="$PROJECT_DIR$/src/config" />
-        <option value="$PROJECT_DIR$/src/com/zc/tank/abstractFactory/BaseExplode.java" />
-        <option value="$PROJECT_DIR$/src/com/zc/tank/abstractFactory/RectExplode.java" />
-        <option value="$PROJECT_DIR$/src/com/zc/tank/abstractFactory/GameFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/zc/tank/abstractFactory/DefaultFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/zc/tank/FourDirFireStrategy.java" />
-        <option value="$PROJECT_DIR$/src/com/zc/tank/FireStrategy.java" />
-        <option value="$PROJECT_DIR$/src/com/zc/tank/abstractFactory/RectFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/zc/tank/abstractFactory/BaseBullet.java" />
-        <option value="$PROJECT_DIR$/src/com/zc/tank/abstractFactory/BaseTank.java" />
-        <option value="$PROJECT_DIR$/src/com/zc/tank/abstractFactory/RectBullet.java" />
-        <option value="$PROJECT_DIR$/src/com/zc/tank/abstractFactory/RectTank.java" />
-        <option value="$PROJECT_DIR$/src/com/zc/tank/TankFrame.java" />
-        <option value="$PROJECT_DIR$/src/com/zc/tank/DefaultFirestrategy.java" />
         <option value="$PROJECT_DIR$/src/com/zc/tank/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/zc/tank/Bullet.java" />
         <option value="$PROJECT_DIR$/src/com/zc/tank/Tank.java" />
-        <option value="$PROJECT_DIR$/src/com/zc/tank/Explode.java" />
+        <option value="$PROJECT_DIR$/src/com/zc/tank/Bullet.java" />
+        <option value="$PROJECT_DIR$/src/com/zc/tank/TankFrame.java" />
+        <option value="$PROJECT_DIR$/src/config" />
       </list>
     </option>
   </component>
@@ -168,9 +85,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-38" />
-    <option name="y" value="205" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="142" />
+    <option name="y" value="180" />
     <option name="width" value="1827" />
     <option name="height" value="864" />
   </component>
@@ -180,6 +97,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,8 +127,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,7 +136,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586148769631" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586004578824" />
     <property name="last_opened_file_path" value="D:/Program Files/jdk/bin/jvisualvm.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -229,17 +146,13 @@
     <property name="settings.editor.selected.configurable" value="plugins.junitgenerator.application" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zc.tank" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\code\tank\src\com\zc\tank" />
       <recent name="D:\code\tank\src" />
       <recent name="D:\code\tank\src\images" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.zc.tank.abstractFactory" />
-      <recent name="com.zc.tank" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.zc.tank.abstractFactory" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -351,32 +264,8 @@
       <workItem from="1585801921284" duration="9458000" />
       <workItem from="1585880623631" duration="6814000" />
       <workItem from="1585904805758" duration="6343000" />
-      <workItem from="1585967048002" duration="8144000" />
-      <workItem from="1586047511666" duration="7449000" />
-      <workItem from="1586141482232" duration="6330000" />
+      <workItem from="1585967048002" duration="7258000" />
     </task>
-    <task id="LOCAL-00001" summary="version 1.0">
-      <created>1586004673767</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1586004673767</updated>
-    </task>
-    <task id="LOCAL-00002" summary="抽象工厂">
-      <created>1586147688691</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1586147688691</updated>
-    </task>
-    <task id="LOCAL-00003" summary="1.0+抽象工厂">
-      <created>1586148346974</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1586148346975</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -412,13 +301,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61957000" />
+    <option name="totallyTimeSpent" value="47369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17461601" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17946646" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -427,7 +316,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5608108" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.56305504" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -435,10 +324,10 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3299595" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3250444" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3265766" />
       <window_info anchor="bottom" id="Run with VisualVM" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.3285968" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -453,12 +342,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="version 1.0" />
-    <MESSAGE value="抽象工厂" />
-    <MESSAGE value="1.0+抽象工厂" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.0+抽象工厂" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Dir.java">
@@ -542,140 +425,30 @@
     <entry file="file://$PROJECT_DIR$/src/images/bulletU.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/abstractFactory/RectExplode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/abstractFactory/DefaultFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/abstractFactory/BaseExplode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/FireStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/abstractFactory/GameFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/abstractFactory/RectTank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/PropertyMgr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zc/tank/ImageUtil.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Explode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zc/tank/ResourceMgr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        <state relative-caret-position="144">
+          <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/config">
+    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Tank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/FourDirFireStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/abstractFactory/BaseTank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/abstractFactory/RectBullet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1235">
-          <caret line="67" column="13" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/abstractFactory/BaseBullet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/abstractFactory/RectFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/DefaultFirestrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/TankFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-437">
-          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        <state relative-caret-position="138">
+          <caret line="14" column="91" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="91" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -684,29 +457,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Bullet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="83" column="35" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="35" />
+        <state relative-caret-position="114">
+          <caret line="6" column="85" selection-start-line="6" selection-start-column="85" selection-end-line="6" selection-end-column="85" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Tank.java">
+    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/TankFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="190">
+          <caret line="16" column="87" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3596#3597#0" expanded="true" />
-            <element signature="e#3622#3623#0" expanded="true" />
-            <element signature="e#3702#3703#0" expanded="true" />
-            <element signature="e#3728#3729#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Explode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/PropertyMgr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        <state relative-caret-position="239">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zc/tank/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
