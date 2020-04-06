@@ -1,11 +1,10 @@
-package com.zc.tank;
+package com.zc.tank.abstractFactory;
 
-import com.zc.tank.abstractFactory.BaseBullet;
-import com.zc.tank.abstractFactory.BaseTank;
+import com.zc.tank.*;
 
 import java.awt.*;
 
-public class Bullet extends BaseBullet {
+public class RectBullet extends BaseBullet {
     //属性
     private static final int SPEED = Integer.parseInt((String)PropertyMgr.get("bulletSpeed"));
     private int x, y;
@@ -19,7 +18,7 @@ public class Bullet extends BaseBullet {
     Rectangle rect = new Rectangle();
 
 
-    public Bullet(int x, int y, Dir dir, Group group, TankFrame tf){
+    public RectBullet(int x, int y, Dir dir, Group group, TankFrame tf){
         this.x = x;
         this.y = y;
         this.dir = dir;
@@ -35,20 +34,10 @@ public class Bullet extends BaseBullet {
         if (!liveing)
             tf.bullets.remove(this);
         //改变颜色
-        switch (dir){
-            case LEFT:
-                g.drawImage(ResourceMgr.bulletL,x,y,null);
-                break;
-            case RIGHT:
-                g.drawImage(ResourceMgr.bulletR,x,y,null);
-                break;
-            case UP:
-                g.drawImage(ResourceMgr.bulletU,x,y,null);
-                break;
-            case DOWN:
-                g.drawImage(ResourceMgr.bulletD,x,y,null);
-                break;
-        }
+        Color c = g.getColor();
+        g.setColor(Color.yellow);
+        g.fillRect(x,y,20,20);
+        g.setColor(c);
         move();
     }
     private void move() {
@@ -81,6 +70,7 @@ public class Bullet extends BaseBullet {
         if (this.group == tank.getGroup())
             return;
         //子弹与坦克相撞，判断是否相交
+        Rectangle rect2 = new Rectangle(tank.getX(),tank.getY(),Tank.WIDTH,Tank.HEIGHT);
         //判断是否相交
         if (rect.intersects(tank.rect)){
             tank.die();
