@@ -1,6 +1,6 @@
 package com.zc.tank;
 
-import com.zc.tank.abstractFactory.BaseTank;
+
 
 public class DefaultFirestrategy implements FireStrategy {
     @Override

@@ -7,7 +7,7 @@ public class FourDirFireStrategy implements FireStrategy {
         int bY = t.getY() + Tank.HEIGHT/2 - Bullet.HEIGHT/2;
         Dir[] dirs = Dir.values();
         for (Dir dir : dirs) {
-            t.getTf().gf.createBullet(bX,bY,dir,t.getGroup(),t.getTf());
+            new Bullet(bX,bY,dir,t.getGroup(),t.getTf());
         }
     }
 }

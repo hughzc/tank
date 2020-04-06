@@ -1,11 +1,10 @@
 package com.zc.tank;
 
-import com.zc.tank.abstractFactory.BaseBullet;
-import com.zc.tank.abstractFactory.BaseTank;
+
 
 import java.awt.*;
 
-public class Bullet extends BaseBullet {
+public class Bullet {
     //属性
     private static final int SPEED = Integer.parseInt((String)PropertyMgr.get("bulletSpeed"));
     private int x, y;
@@ -76,8 +75,7 @@ public class Bullet extends BaseBullet {
         if (this.x < 0 || this.y < 0 || this.x > TankFrame.GAME_WIDTH || this.y > TankFrame.GAME_HEIGHT)
             liveing = false;
     }
-    @Override
-    public void collideWith(BaseTank tank) {
+    public void collideWith(Tank tank) {
         if (this.group == tank.getGroup())
             return;
         //子弹与坦克相撞，判断是否相交
@@ -88,7 +86,7 @@ public class Bullet extends BaseBullet {
             //加入爆炸
             int bX = tank.getX() + Tank.WIDTH/2 - Explode.WIDTH/2;
             int bY = tank.getY() + Tank.HEIGHT/2 - Explode.HEIGHT/2;
-            tf.explodes.add(tf.gf.createExplode(bX,bY,tf));
+            tf.explodes.add(new Explode(bX,bY,tf));
         }
 
     }

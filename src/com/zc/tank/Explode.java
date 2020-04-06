@@ -1,10 +1,8 @@
 package com.zc.tank;
 
-import com.zc.tank.abstractFactory.BaseExplode;
-
 import java.awt.*;
 
-public class Explode extends BaseExplode {
+public class Explode {
     //属性
     private int x, y;
     public static final int WIDTH = ResourceMgr.explodes[0].getWidth();

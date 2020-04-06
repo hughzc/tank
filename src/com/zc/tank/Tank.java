@@ -1,17 +1,17 @@
 package com.zc.tank;
 
-import com.zc.tank.abstractFactory.BaseTank;
-
 import java.awt.*;
 import java.util.Random;
 
-public class Tank extends BaseTank {
+public class Tank {
     private int x, y;
     private Dir dir;
 
     public static final int WIDTH = ResourceMgr.goodTankD.getWidth();
     public static final int HEIGHT = ResourceMgr.goodTankD.getWidth();
     private Random random = new Random();
+    public Group group = Group.BAD;
+    public Rectangle rect = new Rectangle();
 
     private static final int SPEED = Integer.parseInt((String)PropertyMgr.get("tankSpeed"));
     private boolean moving = true;
@@ -25,7 +25,7 @@ public class Tank extends BaseTank {
         this.y = y;
         this.dir = dir;
         this.tf = tf;
-        super.group = group;
+        this.group = group;
         rect.x = this.x;
         rect.y = this.y;
         rect.width = WIDTH;
@@ -157,13 +157,7 @@ public class Tank extends BaseTank {
     }
 
     public void fire() {
-//        fs.fire(this);
-        int bX = this.getX() + Tank.WIDTH/2 - Bullet.WIDTH/2;
-        int bY = this.getY() + Tank.HEIGHT/2 - Bullet.HEIGHT/2;
-        Dir[] dirs = Dir.values();
-        for (Dir dir : dirs) {
-            this.getTf().gf.createBullet(bX,bY,dir,getGroup(),getTf());
-        }
+        fs.fire(this);
     }
 
     public void die() {
